@@ -7,7 +7,7 @@ app.use(express.urlencoded({extended: false}))
 
 app.get("/", (req,res) => {
     res.json({
-      "slackUsername": "Samuel Fapohunda",
+      "slackUsername": "samzy",
       "backend": true,
       "age": 20,
       "bio": "My name is Samuel Fapohunda. I am 20 years old and a student of the University of Lagos"
