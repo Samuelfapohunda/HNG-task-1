@@ -4,8 +4,7 @@
   "description": "HNG Task 1",
   "main": "server.js",
   "scripts": {
-    "server": "nodemon server.js",
-    "start": "node server.js"
+    "start": "node server.js"    
   },
   "author": "Samuel Fapohunda",
   "license": "MIT",
