@@ -1,0 +1,16 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "HNG Task 1",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "author": "Samuel Fapohunda",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
